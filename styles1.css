@@ -1,0 +1,45 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family:  sans-serif;
+
+}
+
+
+.top-container{
+  background-color: #E4F9F5;
+  padding-top: 125px;
+  position: relative;
+}
+h1{
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  font-size: 90px;
+ font-family: 'Sacramento', cursive;
+ text-shadow: 5px;
+}
+h3{
+  font-family: 'Bellota Text', cursive;
+}
+.middle-container{
+
+
+}
+
+.bottom-container{
+
+}
+.second{
+  position:absolute;
+  left:300px;
+  top:100px;
+}
+.first{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+.profile{
+  border-radius: 100%;
+}
